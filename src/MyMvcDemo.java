@@ -1,3 +1,6 @@
+import StudentPackage.Student;
+import StudentPackage.StudentController;
+import StudentPackage.StudentView;
 
 public class MyMvcDemo {
 

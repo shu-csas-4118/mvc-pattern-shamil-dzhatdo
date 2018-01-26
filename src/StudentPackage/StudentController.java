@@ -1,3 +1,4 @@
+package StudentPackage;
 
 public class StudentController {
 	private StudentView studentView;
