@@ -2,21 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14e0526b-313a-4d0c-9cfe-7bd24e1672cd" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/MyMvcDemo.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/CoursePackage/Course.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/CoursePackage/CourseController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/CoursePackage/CourseView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ProfessorPackage/Professor.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ProfessorPackage/ProfessorController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ProfessorPackage/ProfessorView.java" />
-      <change beforePath="$PROJECT_DIR$/src/MyMvcDemo.java" afterPath="$PROJECT_DIR$/src/MyMvcDemo.java" />
-      <change beforePath="$PROJECT_DIR$/src/Student.java" afterPath="$PROJECT_DIR$/src/StudentPackage/Student.java" />
-      <change beforePath="$PROJECT_DIR$/src/StudentController.java" afterPath="$PROJECT_DIR$/src/StudentPackage/StudentController.java" />
-      <change beforePath="$PROJECT_DIR$/src/StudentView.java" afterPath="$PROJECT_DIR$/src/StudentPackage/StudentView.java" />
+      <change beforePath="$PROJECT_DIR$/src/CoursePackage/Course.java" afterPath="$PROJECT_DIR$/src/CoursePackage/Course.java" />
+      <change beforePath="$PROJECT_DIR$/src/CoursePackage/CourseController.java" afterPath="$PROJECT_DIR$/src/CoursePackage/CourseController.java" />
+      <change beforePath="$PROJECT_DIR$/src/CoursePackage/CourseView.java" afterPath="$PROJECT_DIR$/src/CoursePackage/CourseView.java" />
+      <change beforePath="$PROJECT_DIR$/src/ProfessorPackage/Professor.java" afterPath="$PROJECT_DIR$/src/ProfessorPackage/Professor.java" />
+      <change beforePath="$PROJECT_DIR$/src/ProfessorPackage/ProfessorController.java" afterPath="$PROJECT_DIR$/src/ProfessorPackage/ProfessorController.java" />
+      <change beforePath="$PROJECT_DIR$/src/ProfessorPackage/ProfessorView.java" afterPath="$PROJECT_DIR$/src/ProfessorPackage/ProfessorView.java" />
+      <change beforePath="$PROJECT_DIR$/src/StudentPackage/StudentView.java" afterPath="$PROJECT_DIR$/src/StudentPackage/StudentView.java" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,114 +19,189 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="MyMvcDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MyMvcDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StudentPackage/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Course.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CoursePackage/Course.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Professor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ProfessorPackage/Professor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="31" lean-forward="false" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CourseView.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CoursePackage/CourseView.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CourseController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CoursePackage/CourseController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProfessorView.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ProfessorPackage/ProfessorView.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProfessorController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ProfessorPackage/ProfessorController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StudentController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StudentPackage/StudentController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StudentView.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/StudentPackage/StudentView.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="35" column="12" lean-forward="false" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="MyMvcDemo.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/MyMvcDemo.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="72">
+                  <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/StudentPackage/Student.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="594">
+                  <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Course.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/CoursePackage/Course.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="180">
+                  <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+                  <folding>
+                    <element signature="e#269#270#0" expanded="true" />
+                    <element signature="e#321#322#0" expanded="true" />
+                    <element signature="e#365#366#0" expanded="true" />
+                    <element signature="e#401#402#0" expanded="true" />
+                    <element signature="e#436#437#0" expanded="true" />
+                    <element signature="e#489#490#0" expanded="true" />
+                    <element signature="e#537#538#0" expanded="true" />
+                    <element signature="e#568#569#0" expanded="true" />
+                    <element signature="e#598#599#0" expanded="true" />
+                    <element signature="e#641#642#0" expanded="true" />
+                    <element signature="e#679#680#0" expanded="true" />
+                    <element signature="e#718#719#0" expanded="true" />
+                    <element signature="e#750#751#0" expanded="true" />
+                    <element signature="e#803#804#0" expanded="true" />
+                    <element signature="e#845#846#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="CourseView.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/CoursePackage/CourseView.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="270">
+                  <caret line="15" column="40" lean-forward="false" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+                  <folding>
+                    <element signature="e#144#145#0" expanded="true" />
+                    <element signature="e#180#181#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="CourseController.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/CoursePackage/CourseController.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="108">
+                  <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ProfessorView.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/ProfessorPackage/ProfessorView.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="216">
+                  <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+                  <folding>
+                    <element signature="e#168#169#0" expanded="true" />
+                    <element signature="e#210#211#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ProfessorController.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/ProfessorPackage/ProfessorController.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="234">
+                  <caret line="13" column="65" lean-forward="false" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="65" />
+                  <folding>
+                    <element signature="e#348#349#0" expanded="true" />
+                    <element signature="e#420#421#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="StudentController.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/StudentPackage/StudentController.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="36">
+                  <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="StudentView.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/StudentPackage/StudentView.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="522">
+                  <caret line="31" column="42" lean-forward="false" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="Course.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/CoursePackage/Course.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="180">
+                  <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+                  <folding>
+                    <element signature="e#269#270#0" expanded="true" />
+                    <element signature="e#321#322#0" expanded="true" />
+                    <element signature="e#365#366#0" expanded="true" />
+                    <element signature="e#401#402#0" expanded="true" />
+                    <element signature="e#436#437#0" expanded="true" />
+                    <element signature="e#489#490#0" expanded="true" />
+                    <element signature="e#537#538#0" expanded="true" />
+                    <element signature="e#568#569#0" expanded="true" />
+                    <element signature="e#598#599#0" expanded="true" />
+                    <element signature="e#641#642#0" expanded="true" />
+                    <element signature="e#679#680#0" expanded="true" />
+                    <element signature="e#718#719#0" expanded="true" />
+                    <element signature="e#750#751#0" expanded="true" />
+                    <element signature="e#803#804#0" expanded="true" />
+                    <element signature="e#845#846#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Professor.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/ProfessorPackage/Professor.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="144">
+                  <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+                  <folding>
+                    <element signature="e#235#236#0" expanded="true" />
+                    <element signature="e#285#286#0" expanded="true" />
+                    <element signature="e#327#328#0" expanded="true" />
+                    <element signature="e#362#363#0" expanded="true" />
+                    <element signature="e#393#394#0" expanded="true" />
+                    <element signature="e#441#442#0" expanded="true" />
+                    <element signature="e#481#482#0" expanded="true" />
+                    <element signature="e#513#514#0" expanded="true" />
+                    <element signature="e#541#542#0" expanded="true" />
+                    <element signature="e#583#584#0" expanded="true" />
+                    <element signature="e#617#618#0" expanded="true" />
+                    <element signature="e#655#656#0" expanded="true" />
+                    <element signature="e#689#690#0" expanded="true" />
+                    <element signature="e#743#744#0" expanded="true" />
+                    <element signature="e#789#790#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -154,10 +221,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/CoursePackage/Course.java" />
-        <option value="$PROJECT_DIR$/src/ProfessorPackage/Professor.java" />
         <option value="$PROJECT_DIR$/src/StudentPackage/Student.java" />
+        <option value="$PROJECT_DIR$/src/CoursePackage/Course.java" />
         <option value="$PROJECT_DIR$/src/StudentPackage/StudentView.java" />
+        <option value="$PROJECT_DIR$/src/CoursePackage/CourseView.java" />
+        <option value="$PROJECT_DIR$/src/CoursePackage/CourseController.java" />
+        <option value="$PROJECT_DIR$/src/ProfessorPackage/Professor.java" />
+        <option value="$PROJECT_DIR$/src/ProfessorPackage/ProfessorView.java" />
+        <option value="$PROJECT_DIR$/src/ProfessorPackage/ProfessorController.java" />
       </list>
     </option>
   </component>
@@ -350,12 +421,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516982974225</updated>
-      <workItem from="1516982982878" duration="764000" />
+      <workItem from="1516982982878" duration="3982000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="764000" />
+    <option name="totallyTimeSpent" value="3982000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -401,14 +472,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/StudentPackage/StudentController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MyMvcDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -416,54 +479,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CoursePackage/Course.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProfessorPackage/Professor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="31" lean-forward="false" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CoursePackage/CourseView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CoursePackage/CourseController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProfessorPackage/ProfessorView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProfessorPackage/ProfessorController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -479,10 +494,107 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/StudentPackage/StudentView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="35" column="12" lean-forward="false" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
+        <state relative-caret-position="522">
+          <caret line="31" column="42" lean-forward="false" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CoursePackage/CourseView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="40" lean-forward="false" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+          <folding>
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CoursePackage/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding>
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#537#538#0" expanded="true" />
+            <element signature="e#568#569#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+            <element signature="e#679#680#0" expanded="true" />
+            <element signature="e#718#719#0" expanded="true" />
+            <element signature="e#750#751#0" expanded="true" />
+            <element signature="e#803#804#0" expanded="true" />
+            <element signature="e#845#846#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProfessorPackage/Professor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding>
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+            <element signature="e#655#656#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#743#744#0" expanded="true" />
+            <element signature="e#789#790#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CoursePackage/CourseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProfessorPackage/ProfessorView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding>
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StudentPackage/StudentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProfessorPackage/ProfessorController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="65" lean-forward="false" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="65" />
+          <folding>
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
           </folding>
         </state>
       </provider>
