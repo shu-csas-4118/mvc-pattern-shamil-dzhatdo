@@ -23,11 +23,12 @@ public class StudentView {
 	    //This block prints the students personal information.
         System.out.println("First name: " + student.getFirstName());
         System.out.println("Last name:  " + student.getLastName());
-        System.out.println("Email:      " + student.getIdNumber());
+        System.out.println("Email:      " + student.getEmail());
         System.out.println("ID Number:  " + student.getIdNumber());
         System.out.println("Courses:    ");
+        System.out.println();
 
-        if (student.getCourses() == null || student.getCourses().size() < 2)
+        if (student.getCourses() == null)
             System.out.println("Invalid course load.  Must have at least two courses. ");
         else {
             //This block prints the courses the student is enrolled in, as well as the professors.
@@ -41,6 +42,7 @@ public class StudentView {
             while (it.hasNext()) {
                 Course C = it.next();
                 CV.printCourseDetails(C);
+                System.out.println();
                 Professor P = C.getProfessor();
                 PV.printProfessorDetails(P);
             }

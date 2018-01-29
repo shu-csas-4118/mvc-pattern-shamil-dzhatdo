@@ -7,6 +7,13 @@ public class Professor {
     private String email;           //Purpose: The professor's email address.
     private String phoneNumber;     //Purpose: The professor's phone number.
 
+    public Professor(String firstName, String lastName, String email, String phoneNumber) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+        this.email = email;
+        this.phoneNumber = phoneNumber;
+    }
+
     //Purpose: Returns this professor's first name.
     public String getFirstName() {
         return firstName;

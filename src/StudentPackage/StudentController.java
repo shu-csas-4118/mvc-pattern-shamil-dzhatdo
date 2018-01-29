@@ -78,10 +78,6 @@ public class StudentController {
 
     //Purpose: Returns the number of courses this student is taking.
     public int getCourseLoad() {
-        ArrayList<Course> courses = this.student.getCourses();
-	    if (courses == null)
-	        return 0;
-	    else
-	        return courses.size();
+        return this.student.getCourseLoad();
     }
 }

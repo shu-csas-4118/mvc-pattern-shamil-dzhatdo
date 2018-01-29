@@ -18,6 +18,7 @@ public class Student {
 		this.lastName = lastName;
 		this.email = email;
 		this.idNumber = idNumber;
+		courses = new ArrayList<>();
 	}
 
 	//Purpose: Returns this student's first name.
@@ -84,5 +85,12 @@ public class Student {
     //Effect: Mutates this.courses so that it no longer contains course.
     public void removeCourse(Course course) {
 	    this.courses.remove(course);
+    }
+
+    public int getCourseLoad() {
+	    if (this.courses == null)
+	        return 0;
+	    else
+	        return this.courses.size();
     }
 }

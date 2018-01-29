@@ -25,7 +25,8 @@ public class CourseView {
         System.out.println("Course Name: " + course.getCourseName());
         System.out.println("Course No:   " + course.getCourseNumber());
         System.out.println("Credit No:   " + course.getCredits());
-        System.out.println("Professor:   " + course.getProfessor());
+        System.out.println("Professor:   " + course.getProfessor().getFirstName() + " " + course.getProfessor().getLastName());
+        System.out.println();
     }
 
 
